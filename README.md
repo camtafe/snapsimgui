@@ -13,7 +13,7 @@ Press Esc to exit the game at any point.
 
 **Licensing information for their project and any third-party libraries or frameworks used.**
 
-Released under the LGPL licence like pygame itself. Used the pygame library.
+Released under the LGPL license like pygame itself. Used the pygame library.
 
 **A brief explanation of the chosen GUI/frontend library and why they chose it.**
 
